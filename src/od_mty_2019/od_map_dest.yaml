@@ -1,0 +1,613 @@
+Banco:
+- banco
+- banco banjio
+- banco santander
+- atm
+- tramites
+- tramite
+- cfe
+- banorte
+- banorte universidad
+- sat
+- pago
+- pagos
+- cajero
+- deposito
+- santander
+Escuela:
+- escuela
+- secundaria
+- kinder
+- universidad
+- prepa
+- preparatoria
+- colegio
+- primaria
+- estudio
+- estudiar
+- estudios
+- escula
+- 1escuela
+- rscuela
+- escuela}
+- Escuela
+- ecuela
+- escuela.
+- n/rescuela
+- facultad
+- universidad mty
+- universidad uanl
+- universidad aunl
+- unitec
+- univ mty
+- colegio nacali
+- universidad autonoma
+- guarderia
+- esc dora garza
+- escuela de electronica
+- facultad medica
+Farmacia/Clínica/Hospital:
+- hospital
+- hopital
+- doctors hospital
+- hospital clinica 6
+- linica
+- clinica
+- clinica 6
+- clinica 9
+- clinica 26
+- clinica 64
+- clinica 7
+- clinica 15
+- clinica 35
+- farmacia
+- farmacia benavides
+- farmacia guadalajara
+- farmasia
+- farm guadalajara
+- guadalajara
+- consulta
+- medico
+- centro medico
+- imss
+- imss 24
+- ims
+- seguro imss
+- seguro
+- doctor
+- centro de salud
+- cita medica
+- dentista
+- consultorio
+- terapia
+- laboratorio
+- seguro 64
+- similares
+- citas
+- salud
+- rehabilitacion
+- medica
+- imms
+- cruz roja
+- clínica 70
+- clínica san andrés
+- imss 14
+- imss 70
+- unidad de especialidades medicas
+Hogar:
+# Hogar typos
+- hogar
+- hyogar
+- dhogar
+- hogara
+- hhogar
+- hogr
+- hoger
+- hogar+
+- hogar.
+- gogar
+- hoagar
+- hoghar
+- hogar21
+- hoagra
+- n/rhogar
+- el hogar
+- hogarhogar
+- regreso a casa
+# Actual places recovered to be home
+- monterrey
+- plan de ayala
+- luis garcia
+- segunda avenida
+- septiembre
+- hdalgo
+- cerezo
+- colinas de los encinos
+- lechuguilla
+- priv lerdo de tejada
+- sta ana
+- rio cautin
+- odiseo
+- monte rojo
+- perla
+- romero
+Otro:
+- otro
+- en otro lugar
+- estetica
+- panteon
+- servicio
+- cita
+- dif
+- campo
+- insumos
+- parada de camion
+- prestamo expres
+- estetica abigail
+- centro cum
+- puesto
+- visita clientes
+- kalos
+- ayuntamiento
+- buscar trabajo
+- smoll
+- rayos
+- contratar
+- palcio gobierno
+- centro de monterrey
+- paraje morelos
+- estacion
+- apodaca centro
+- sitio
+- trabajohogar
+- central camionera
+- presidnecia municipal
+- lavanderia
+- somoil
+- purificadora
+- loteria
+- rloteria
+- pesqueria nl
+- pesqueria
+- gasolineria
+- surtir
+- zona centro
+- madnado
+- casa meir
+- recojer
+- ine
+- particulares
+- gras
+- gas
+- personal
+- materno
+- entrevista
+- centro comunitario
+- a buscar trabajo
+- convivio
+- humberto lobo
+- vere centr
+- recoger
+- pago de servicio
+- presidencia municipal
+- los fresnos
+- profeco
+- paseo la fe
+- ambulante
+- reunion
+- ute
+- la normal
+- lamparas
+- rio catarina
+- centro de i
+- comite
+- paquteria
+- telefonia
+- gas economico
+- centro mty
+- san pedro garza garcía
+- suria
+- lugar tramite
+- apodaca
+- destino
+- estafeta
+- capacitacion
+- cobrar
+- entrega
+- transito
+- carrier d
+- casero
+- levanderia
+- rebeca cantu
+- gasera
+- jardin
+- estancia
+- correos
+- vere centro
+- rosario
+- solicitud
+- centro
+- centro monterrey
+- aldabas cavazos
+- apec agua de riego
+- plan tierra propia
+Otro hogar:
+- visita
+- familiar
+- mama
+- hogar hermana
+- hogar nieta
+- otro hogar
+- hogar familiar
+- hogar de familiar
+- visita}
+- vicita
+- vecina
+- novia
+- visita tia
+- visita hijo
+- casa de mama
+- casa hijo
+- casa hija
+- casa de familia
+- casa de amigo
+- casa hermana
+- casa de novia
+- casa amigo
+- casa deb hijo
+- casa de su hijo
+- casa familiar
+- casa fam
+- casa familia
+- casa mama
+- casa del cuñado
+- casa cuñada
+- casa de hermano
+- casa abuelo
+- casa de los suegros
+- casa amiga
+- visita familiar
+- familia
+- visita familia
+- un familiar
+- pasa por familiar
+- familiares
+- colonia la loma
+- visita amiga
+- casa de una amiga
+Recreativo:
+- parque
+- paseo
+- restaurante
+- gym
+- cine
+- restaurant
+- correr
+- a correr
+- tacos pony
+- tacos
+- tacos los abuelos
+- tacos h
+- puesto de carnitas
+- comer
+- museo
+- recreacion
+- gimnasio
+- comida
+- ejercicio
+- biblioteca
+- pizzeria
+- pollo frito chiken
+- centro civico
+- taqueria
+- parque sub
+- mariscos
+- albercas
+- club deportivo
+- canchas
+- cabalgar
+- parque koloso
+- juego
+- spining
+- pollo feliz
+- giomnasio
+- fonda
+- lonche
+- bar
+- bar aguaje
+- fundidora
+- fiesta
+- pollo frito
+- caminar
+- mc donalds
+- que pollo
+- carls junio
+- cars junir
+- parque de la huasteca
+- cafe internet
+- café
+- café sucursal marín
+- carnitas don chente
+- mariscos los arenas
+- restaurante la cuchara
+Religioso:
+- iglesia
+- capilla
+- iglesia ap
+- parroquia
+- templo
+Tienda/(Super)mercado:
+- tienda
+- tienda diaz
+- tienda departamental
+- tiendaa
+- detienda
+- tienda de la esquina
+- tienda navarro
+- super tienda
+- tienda dany
+- tienda autoservicios
+- tienda autoservicio
+- tienda perlita
+- multitienda
+- una tienda
+- tienda flor
+- tienda.
+- tieda
+- tianda
+- tuenda
+- tiendita
+- mercado
+- supermercado
+- mercado juarez
+- mercado de abastos
+- mercado rodante
+- super mercado
+- mercado de abasto
+- mercado estrella
+- oxxo
+- oxoo
+- oxxo abasolo
+- oxxo piados
+- oxxo genaro
+- tienda oxxo
+- oxxo san antonio
+- six
+- tienda six
+- soriana
+- rsoriana
+- sopriana
+- soriana santa cruz
+- soriana huinala
+- soriana huinula
+- hiper soriana
+- soriana santa rosa
+- soriana apodaca
+- soriana tienda
+- soriana nogales
+- soriana puerta del sol
+- soriana marne
+- soriana hiper escobedo
+- aurrera
+- aurera
+- aurrer
+- b aurrera
+- b. aurrera
+- bodega
+- bodega a
+- bodega au
+- bodega au.
+- bodega aurrera
+- super
+- siper
+- el super
+- al super
+- sumerca
+- abarrotes
+- tienda abarrotes
+- tienda de abarrotes
+- abarrotes mendez
+- tienda d abarrotes
+- abarrotes juan
+- abarrotes el cabrito
+- compras
+- comprasd
+- acompañar
+- compra
+- compraas
+- fruteria
+- tortilleria
+- plaza
+- carniceria
+- truteria
+- panaderia
+- comercial
+- zapateria
+- ferreteria
+- heb
+- heb sendero
+- heb lineal
+- heb lincon
+- heb contry
+- walmart
+- abarrotes clerety
+- abarrotes leo
+- elektra
+- electra
+- centro comercial
+- plazita
+- cam
+- plaza comercial
+- plaza sendero
+- plaza cam
+- plaza la fe
+- plaza cendero la fe
+- inter plaza
+- plaza nte
+- plaza patio lincon
+- plaza tegnologia
+- plaza perisur
+- plaza garibaldi
+- plaza rosa
+- plaza fuentes
+- la tiendita
+- mi tiendita
+- seven
+- sevenip
+- zeven 7
+- 7 eleven
+- 7-eleven
+- smart
+- mandado
+- pasteleria
+- dulceria
+- famsa
+- mini super monualu
+- minisuper
+- super siete
+- super hugo
+- super ayala
+- super mayin
+- mini super
+- super carnes
+- merco
+- mercadia
+- mercadito
+- cto comercial
+- comercio
+- mercdo
+- carne
+- carniceria san juan
+- carniseria
+- carnes san juan
+- carniceria la mayita
+- cedis de coppel
+- coppel
+- copras
+- sun mall public
+- sun small públic
+- sun mall
+- sun malll
+- sun moll juarez
+- elotes
+- fantasias miguel
+- her contry
+- surtirse
+- carhe
+- refeaccionaria
+- autosonico
+- paleteria michoacana
+- heladeria
+- polleria
+- modelorama
+- mariscos dan
+- tortillas
+- pizza litler
+- papeleria
+- refaccionaria
+- fruteria hidalgo
+- del sol
+- parisina
+- mol
+- central abastos
+- placa sol
+- auto zone
+- mall
+- valmar
+- palacio de hierro
+- madereria
+- concretos escobedo
+- abastos
+- verduleria
+- tortileria
+- agua fría
+- aurrera express
+- autoclimas santa rosa
+- coopel juárez
+- costco
+- costco pharmacy
+- elektra cadereyta
+- elotes anita
+- ferretería materiales san juan
+- ferretería y materiales san juan
+- frutería
+- helados sultana
+- mercadito domingo
+- mercado domingo
+- mercado juárez
+- mercado oxxo
+- mercería
+- mini super ray
+- oxxo juárez
+- oxxo pino suarez
+- oxxo progreso
+- panadería
+- papelería
+- plaza del cercado
+- plaza e05
+- plaza esfera
+- plaza la misión
+- plaza principal
+- plaza santiago
+- seven & leven
+- super g ranchito
+- super gonzález
+- super ray
+- tienda de ropa
+- tienda ranchito
+- werkstar
+- whirpool campos apodaca
+- resuper ray
+- procelec
+- protec ge
+- pollos
+- carnicería
+- celestica
+- cerca del suburbia
+- cherety
+- comprar
+- el chalet comida
+- estanquillo kalin
+- femas servicios
+- ficosa
+Trabajo:
+# Trabajo typos
+- trabajo
+- trabjo
+- trabajo}
+- tabajo
+- trbajo
+- rtrabajo
+- trebajo
+- trabsjo
+- 1trabajo
+- htrabajo
+- trabajo +
+- trabajar
+- trabajo}1
+- terbajo
+- nrtrabajo
+- tarbajo
+- al trabajo
+- de trabajo
+- empleo
+# Work places
+- parque industrial escobedo
+- parque industrial
+- fabrica
+- oficina
+- taller
+- taller mecanico
+- empresa
+- visita negocio
+- molino
+- base
+- trabajo oficinas
+- practicas
+- fabric
+- antiguo trabajo
+- otro trabajo
+- oficcina
+- negocio
+- parque industrial finsa
+- presidencia
