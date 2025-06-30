@@ -6,6 +6,8 @@ import numpy as np
 import pandas as pd
 import yaml
 
+from .informal_model import classify_job
+
 with resources.path("od_mty_2019", "od_map_parentesco.yaml") as p:
     with open(p, "r", encoding="utf-8") as f:
         parentesco_map = yaml.load(f, yaml.SafeLoader)
@@ -824,8 +826,7 @@ def build_people_table(od_df, trips, add_informal=False):
     people["ASISTEN"] = people.ASISTEN.replace([0.0, 1.0], ["No", "Sí"])
 
     if add_informal:
-        pass
-        # people = classify_job(people)
+        people = classify_job(people)
 
     not_first_one, not_sequential = check_sequential(people)
     print(f"In {len(not_first_one)} housholds, first inhabitant is not numbered 1.")
