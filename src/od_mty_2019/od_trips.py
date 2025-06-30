@@ -951,4 +951,30 @@ def build_trips(od_df):
         ).shape,
     )
 
+    print(f"We have {check_overlap(trips).shape} overlapping trips.")
+    print(f"We have {check_taz_chains(trips).shape} trips not chaining or-dest.")
+
     return trips, legs_wide
+
+
+def check_taz_chains(trips):
+    """Check in prev destination is current origin
+    current orgin starts at trips > 2"""
+    idxs = pd.IndexSlice
+    cur_idx = trips.loc[idxs[:, :, 2:]].index
+    prev_idx = pd.MultiIndex.from_arrays(
+        [
+            cur_idx.get_level_values(0),
+            cur_idx.get_level_values(1),
+            cur_idx.get_level_values(2) - 1,
+        ]
+    )
+
+    no_chain = (
+        (trips.loc[cur_idx].ZonaOri != trips.loc[prev_idx].ZonaDest.values)
+        .pipe(lambda s: s[s])
+        .index.droplevel(2)
+        .unique()
+    )
+
+    return no_chain

@@ -827,4 +827,24 @@ def build_people_table(od_df, trips, add_informal=False):
         pass
         # people = classify_job(people)
 
+    not_first_one, not_sequential = check_sequential(people)
+    print(f"In {len(not_first_one)} housholds, first inhabitant is not numbered 1.")
+    print(f"In {len(not_sequential)} housholds, inhabitant are not sequential.")
+
     return people
+
+
+def check_sequential(people):
+    """Check if inhabitants are sequentially enumerated."""
+    not_first_one = []
+    not_sequential = []
+    for _, (idx, df) in enumerate(people.groupby(["HOGAR"])):
+        hogar = idx[0]
+        habitantes = df.index.get_level_values(1).unique()
+
+        if habitantes.min() != 1:
+            not_first_one.append(hogar)
+        if np.sum(np.diff(habitantes) != 1) > 0:
+            not_sequential.append(hogar)
+
+    return not_first_one, not_sequential
