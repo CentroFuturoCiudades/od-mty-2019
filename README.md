@@ -22,6 +22,10 @@ To generate census geometry assignments:
 ```{.sh}
 uv run snakemake -c 1 generate_assignments
 ```
+To generate the clean OD tables:
+```{.sh}
+uv run snakemake -c 1 od_clean
+```
 
 ## TODO
 - [ ] Cleanup trip legs. Trip legs are still inconsistent.

@@ -1180,6 +1180,7 @@ dependencies = [
     { name = "mapclassify" },
     { name = "matplotlib" },
     { name = "pandas" },
+    { name = "scikit-learn" },
     { name = "snakemake" },
 ]
 
@@ -1191,6 +1192,7 @@ requires-dist = [
     { name = "mapclassify", specifier = ">=2.9.0" },
     { name = "matplotlib", specifier = ">=3.10.3" },
     { name = "pandas", specifier = ">=2.3.0" },
+    { name = "scikit-learn", specifier = ">=1.7.0" },
     { name = "snakemake", specifier = ">=9.6.2" },
 ]
 
