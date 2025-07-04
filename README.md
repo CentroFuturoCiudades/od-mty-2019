@@ -29,6 +29,11 @@ uv run snakemake -c 1 od_clean
 
 ## TODO
 - [ ] Cleanup trip legs. Trip legs are still inconsistent.
+- [ ] Add workflow to generate GTA version.
+- [ ] Add PoRPoW and PoRPoS models
+- [ ] Add workflow to generate version to train vehicle ownership model (Usman).
+- [ ] Add vehicle ownership model
+- [ ] Add workflow to expand population to match the synthetic population from census.
 
 ## Authors
 - Gonzalo G. Peraza Mues
